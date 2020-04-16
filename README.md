@@ -2,7 +2,7 @@
 
 #### _A set of folders and files comprising the basic needs for a new Epicodus project. Files have the necessary plugins, rules, and imports pre-configured._
 
-#### By _**Dan Merys**_
+#### By _**Daniel Merys**_
 
 ## Description
 
@@ -58,4 +58,4 @@ ESLint
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2020 **_Dan Merys_**
+Copyright (c) 2020 **_Daniel Merys_**
